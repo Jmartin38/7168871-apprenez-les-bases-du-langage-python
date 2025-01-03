@@ -1,1 +1,2 @@
-## Écrivez votre code ici !
+print ("Hello World")
+print (15+35*2)
